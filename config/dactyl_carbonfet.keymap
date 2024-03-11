@@ -1,0 +1,3 @@
+#include "../miryoku/custom_config.h"
+#include "../miryoku/mapping/52/dactyl_carbonfet.h"
+#include "../miryoku/miryoku.dtsi"
