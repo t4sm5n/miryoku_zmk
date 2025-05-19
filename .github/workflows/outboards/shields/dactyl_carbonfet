@@ -1,7 +1,7 @@
 # Copyright 2024 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-outboard_repository=tuomasmakinen/dactyl_carbonfet
+outboard_repository=t4sm5n/dactyl_carbonfet
 outboard_ref=main
 outboard_from=config/boards/shields/dactyl_carbonfet
 outboard_to=boards/shields/dactyl_carbonfet
