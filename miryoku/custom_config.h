@@ -4,7 +4,7 @@
 #define MIRYOKU_ALPHAS_QWERTY
 #define MIRYOKU_EXTRA_COLEMAK
 #define MIRYOKU_TAP_COLEMAK
-#define MIRYOKU_CLIPBOARD_MAC
+#define MIRYOKU_KLUDGE_DOUBLETAPBOOT
 
 #define MIRYOKU_LAYER_GAME \
 &kp LALT,          &kp Q,             &kp W,             &kp E,             &kp R,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
